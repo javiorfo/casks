@@ -1,2 +1,2 @@
-# chaosys
-C library with miscellaneous utilities
+# casks
+*C library with miscellaneous utilities*
